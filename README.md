@@ -15,9 +15,7 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IUWCuqHcWSsIcogrQjP6SX)
-[![Instagram](https://img.shields.io/badge/Instagram-FF8C00?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pedrozz_13755)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0030?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pedrozz_Mods)
+[![WhatsApp](https://img.shields.io/badge/Suporte-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/555194709091)
 </div>
 
 ## INSTALAÇÃO DO BOT VIA TERMUX
@@ -60,7 +58,7 @@ cd /sdcard/MaiGit && sh start.sh
 
 ## Informações / links
 
-* [__Yuxinze Apis__](http://speedhosting.cloud)
+* [__Yuxinze Apis__](http://speedhosting.cloud:2009)
 * [__Hospedagem__](https://speedhosting.cloud)
 * [__Canal YT__](https://www.youtube.com/@Yan33)
 
