@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <p>
-<img src= "https://files.catbox.moe/4jb6kt.jpg" alt="YukiModz" width="720">
+<img src= "https://files.catbox.moe/gu7owy.jpg" alt="YukiModz" width="720">
 </p>
 
 <p align="center">
