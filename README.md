@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Mai-Bot" src="https://img.shields.io/badge/Laura Privat Infinity-purple?&style=for-the-badge"></a>
+<a href="#"><img title="Mai-Bot" src="https://img.shields.io/badge/Mai Bot Oficial-purple?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
