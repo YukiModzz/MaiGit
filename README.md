@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Criador-Yuki Modz-green.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Criador-Yuki Modz-red.svg?style=for-the-badge&logo=github"></a>
 <img title="Versão" src="https://img.shields.io/badge/Versão-5.5.0-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 
