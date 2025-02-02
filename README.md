@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Criador-Pedrozz Mods-green.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-10.50.1-green.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Criador-Yuki Modz-green.svg?style=for-the-badge&logo=github"></a>
+<img title="Versão" src="https://img.shields.io/badge/Versão-5.5.0-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <div align="center">
