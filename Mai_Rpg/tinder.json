@@ -1,0 +1,37 @@
+{
+  "perfis": [
+    {
+      "usuario": "555194709091@s.whatsapp.net",
+      "nome": "Yuki",
+      "descricao": "o maior dos maiores",
+      "likes": [
+        "555198983744@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": [
+        {
+          "autor": "555198983744@s.whatsapp.net",
+          "texto": "salve mano"
+        }
+      ]
+    },
+    {
+      "usuario": "555198983744@s.whatsapp.net",
+      "nome": "Kyouko",
+      "descricao": "Md está em desenvolvimento ainda",
+      "likes": [
+        "555194709091@s.whatsapp.net"
+      ],
+      "dislikes": [],
+      "comentarios": []
+    },
+    {
+      "usuario": "553182097204@s.whatsapp.net",
+      "nome": "Mike",
+      "descricao": "faz o L",
+      "likes": [],
+      "dislikes": [],
+      "comentarios": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "name": "★🎸🎧⋆｡BOTS °⋆𖦹✮₊ ⊹",
+    "groupId": "120363359874684075@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": true,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": true,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "555180495453@s.whatsapp.net",
+      "5511959543768@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": true,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": true,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false,
+    "forca_inc": false
+  }
+]

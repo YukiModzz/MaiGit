@@ -1,0 +1,94 @@
+[
+  {
+    "name": "💫𝗦𝘁𝗮𝗿 𝗣𝗹𝗮𝘆𝗲𝗿𝘀ᵇˢ💫",
+    "groupId": "120363390467199999@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": true,
+    "listanegra": [
+      "5522981310279@s.whatsapp.net"
+    ],
+    "advertir": [
+      "5527999373764@s.whatsapp.net",
+      "557193126297@s.whatsapp.net",
+      "5521980480386@s.whatsapp.net",
+      "5521980480386@s.whatsapp.net",
+      "5522981310279@s.whatsapp.net",
+      "5522981310279@s.whatsapp.net",
+      "554396196487@s.whatsapp.net",
+      "557193126297@s.whatsapp.net",
+      "558296372089@s.whatsapp.net",
+      "351936675821@s.whatsapp.net",
+      "5519981211397@s.whatsapp.net",
+      "554797754313@s.whatsapp.net",
+      "5511988640022@s.whatsapp.net"
+    ],
+    "prefixos": [
+      "/",
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": true,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Olá #numerodele# seja bem vindo (a) ao grupo 💫𝗦𝘁𝗮𝗿 𝗣𝗹𝗮𝘆𝗲𝗿𝘀ᵇˢ💫\n> Siga o canal da Star Players BS🇧🇷 ⤵️\nhttps://whatsapp.com/channel/0029Vayj82UJP20yEfs7rf2m",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "𝔎𝔬𝔫𝔬𝔥𝔞 𝔉𝔞𝔪𝔦𝔩𝔶✌️💥",
+    "groupId": "120363049139472374@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": true,
+      "palavras": [
+        "praga",
+        "merda",
+        "fds",
+        "vsf",
+        "porra",
+        "caralho",
+        "pqp",
+        "cuzao",
+        "carai",
+        "arrombado",
+        "filha da puta",
+        "fodasse",
+        "feio",
+        "filho da puta",
+        "fudeu",
+        "pora",
+        "cassete",
+        "bosta",
+        "cacete",
+        "saco",
+        "tetuda",
+        "fudi"
+      ]
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": "QUANDO VOLTAR TRAZ COCA!!! Aproveita e traz pão"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": true,
+    "autoresposta": false,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false,
+    "forca_inc": false
+  }
+]

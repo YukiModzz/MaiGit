@@ -1,0 +1,413 @@
+{
+  "555194709091@s.whatsapp.net": {
+    "saldo": 9458,
+    "itens": [
+      "roupagem",
+      "Arma",
+      "cavalo"
+    ],
+    "aventuras": 1,
+    "comidas": [
+      "Carne",
+      "Carne"
+    ],
+    "chakra": 130
+  },
+  "556299192555@s.whatsapp.net": {
+    "saldo": 22774,
+    "itens": [],
+    "aventuras": 0,
+    "chakra": 969
+  },
+  "5511951264261@s.whatsapp.net": {
+    "saldo": 27547,
+    "itens": [
+      "arco",
+      "Arma",
+      "roupagem"
+    ],
+    "aventuras": 0,
+    "terrenos": [
+      {
+        "nome": "Terreno pequeno",
+        "preco": 5000
+      },
+      {
+        "nome": "Terreno grande",
+        "preco": 30000
+      },
+      {
+        "nome": "Terreno médio",
+        "preco": 15000
+      },
+      {
+        "nome": "Terreno médio",
+        "preco": 15000
+      }
+    ]
+  },
+  "557399815445@s.whatsapp.net": {
+    "saldo": 48095,
+    "itens": [
+      "Arma",
+      "cavalo"
+    ],
+    "aventuras": 0,
+    "terrenos": [
+      {
+        "nome": "Terreno grande",
+        "preco": 30000
+      }
+    ],
+    "chakra": 1000
+  },
+  "5516991141400@s.whatsapp.net": {
+    "saldo": 6663,
+    "itens": [],
+    "aventuras": 0
+  },
+  "553598928900@s.whatsapp.net": {
+    "saldo": 323161,
+    "itens": [
+      "cavalo"
+    ],
+    "aventuras": 0
+  },
+  "5511968139240@s.whatsapp.net": {
+    "saldo": 7953,
+    "itens": [],
+    "aventuras": 0,
+    "chakra": 1103
+  },
+  "559293537022@s.whatsapp.net": {
+    "saldo": 73,
+    "itens": [],
+    "aventuras": 0,
+    "chakra": null
+  },
+  "5511911981672@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5512988934541@s.whatsapp.net": {
+    "saldo": 439,
+    "itens": [],
+    "aventuras": 0
+  },
+  "556298665027@s.whatsapp.net": {
+    "saldo": 1196,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5521979730920@s.whatsapp.net": {
+    "saldo": 10756,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555180495453@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555199213590@s.whatsapp.net": {
+    "saldo": 451,
+    "itens": [],
+    "aventuras": 0
+  },
+  "557592121604@s.whatsapp.net": {
+    "saldo": 167597,
+    "itens": [
+      "roupagem",
+      "arco"
+    ],
+    "aventuras": 0,
+    "chakra": 745
+  },
+  "559584374938@s.whatsapp.net": {
+    "saldo": 1061,
+    "itens": [],
+    "aventuras": 0,
+    "chakra": 1148
+  },
+  "5511913348901@s.whatsapp.net": {
+    "saldo": 1103,
+    "itens": [],
+    "aventuras": 0
+  },
+  "559295039698@s.whatsapp.net": {
+    "saldo": 4952,
+    "itens": [],
+    "aventuras": 0
+  },
+  "556281145992@s.whatsapp.net": {
+    "saldo": 3972,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5521997539941@s.whatsapp.net": {
+    "saldo": 1934,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511913292885@s.whatsapp.net": {
+    "saldo": 1147,
+    "itens": [],
+    "aventuras": 0
+  },
+  "557184512813@s.whatsapp.net": {
+    "saldo": 4467,
+    "itens": [],
+    "aventuras": 0
+  },
+  "244953645921@s.whatsapp.net": {
+    "saldo": 1220,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511952872861@s.whatsapp.net": {
+    "saldo": 509,
+    "itens": [],
+    "aventuras": 0
+  },
+  "557391176916@s.whatsapp.net": {
+    "saldo": 414,
+    "itens": [],
+    "aventuras": 0
+  },
+  "557788671517@s.whatsapp.net": {
+    "saldo": 1070,
+    "itens": [],
+    "aventuras": 0
+  },
+  "553188651307@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511982724992@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "554298173020@s.whatsapp.net": {
+    "saldo": 752,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511915890366@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "554192008855@s.whatsapp.net": {
+    "saldo": 2670,
+    "itens": [],
+    "aventuras": 0
+  },
+  "554499056739@s.whatsapp.net": {
+    "saldo": 64795,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511963662770@s.whatsapp.net": {
+    "saldo": 22035,
+    "itens": [
+      "roupagem",
+      "cavalo",
+      "arco",
+      "roupagem",
+      "arco",
+      "roupagem",
+      "roupagem",
+      "cavalo",
+      "arco"
+    ],
+    "aventuras": 0,
+    "chakra": 470
+  },
+  "5514991853342@s.whatsapp.net": {
+    "saldo": -27063,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5519981669457@s.whatsapp.net": {
+    "saldo": 1023,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511996122056@s.whatsapp.net": {
+    "saldo": 265,
+    "itens": [],
+    "aventuras": 0
+  },
+  "559881240688@s.whatsapp.net": {
+    "saldo": 582,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5521977100265@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5519993387938@s.whatsapp.net": {
+    "saldo": 578,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511966235452@s.whatsapp.net": {
+    "saldo": 100133,
+    "itens": [],
+    "aventuras": 0
+  },
+  "558999020649@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "553182097204@s.whatsapp.net": {
+    "saldo": 3884,
+    "itens": [],
+    "aventuras": 0
+  },
+  "557398446423@s.whatsapp.net": {
+    "saldo": 153138700,
+    "itens": [],
+    "aventuras": 0
+  },
+  "558185551894@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "558888244510@s.whatsapp.net": {
+    "saldo": 1950,
+    "itens": [],
+    "aventuras": 0
+  },
+  "556899849930@s.whatsapp.net": {
+    "saldo": 281,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511942886808@s.whatsapp.net": {
+    "saldo": 1146,
+    "itens": [
+      "cavalo"
+    ],
+    "aventuras": 0
+  },
+  "5521959371334@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555599484200@s.whatsapp.net": {
+    "saldo": 7234,
+    "itens": [
+      "roupagem"
+    ],
+    "aventuras": 0
+  },
+  "5521987919007@s.whatsapp.net": {
+    "saldo": 2.8273892648393794e+72,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5521986545160@s.whatsapp.net": {
+    "saldo": 209,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555196360051@s.whatsapp.net": {
+    "saldo": 3614,
+    "itens": [],
+    "aventuras": 0
+  },
+  "559492114852@s.whatsapp.net": {
+    "saldo": 254,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5511915161938@s.whatsapp.net": {
+    "saldo": 523,
+    "itens": [],
+    "aventuras": 0
+  },
+  "553897252341@s.whatsapp.net": {
+    "saldo": 8247,
+    "itens": [],
+    "aventuras": 0
+  },
+  "558796262454@s.whatsapp.net": {
+    "saldo": 1685,
+    "itens": [],
+    "aventuras": 0
+  },
+  "559181644941@s.whatsapp.net": {
+    "saldo": 1661,
+    "itens": [],
+    "aventuras": 0
+  },
+  "556696397400@s.whatsapp.net": {
+    "saldo": 845,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5527988955494@s.whatsapp.net": {
+    "saldo": 109,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5512991453024@s.whatsapp.net": {
+    "saldo": 228,
+    "itens": [],
+    "aventuras": 0
+  },
+  "559193117967@s.whatsapp.net": {
+    "saldo": 508,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5516999980545@s.whatsapp.net": {
+    "saldo": 1100,
+    "itens": [],
+    "aventuras": 0
+  },
+  "556194030214@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "5528999320285@s.whatsapp.net": {
+    "saldo": 340,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555198983744@s.whatsapp.net": {
+    "saldo": 0,
+    "itens": [],
+    "aventuras": 0
+  },
+  "@s.whatsapp.net": {
+    "saldo": 2000,
+    "itens": [],
+    "aventuras": 0
+  },
+  "555199375543@s.whatsapp.net": {
+    "saldo": 4793,
+    "itens": [],
+    "aventuras": 0
+  },
+  "244955609289@s.whatsapp.net": {
+    "saldo": 74,
+    "itens": [],
+    "aventuras": 0
+  },
+  "553597562886@s.whatsapp.net": {
+    "saldo": 104,
+    "itens": [],
+    "aventuras": 0
+  }
+}

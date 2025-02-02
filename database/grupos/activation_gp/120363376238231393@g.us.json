@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Come rindo e dorme chorando",
+    "groupId": "120363376238231393@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5527981419763@s.whatsapp.net",
+      "5527997841195@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [
+      {
+        "id": "5511977675768@s.whatsapp.net",
+        "msg": "1"
+      }
+    ],
+    "antipalavrao": {
+      "active": true,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": true,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": true,
+    "isAutodown": false,
+    "forca_inc": true
+  }
+]

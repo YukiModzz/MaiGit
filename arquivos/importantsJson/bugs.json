@@ -1,0 +1,125 @@
+{
+  "bugs": [
+    {
+      "id": 1,
+      "descricao": "bem-vindo",
+      "reporter": "Yuki 🌌",
+      "resolvido": true,
+      "dataReportado": "2025-01-28T07:49:42.786Z",
+      "dataResolvido": "2025-01-28T08:52:56.650Z"
+    },
+    {
+      "id": 2,
+      "descricao": "simi",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:12:33.215Z"
+    },
+    {
+      "id": 3,
+      "descricao": "menu dono e menu Adms, organizar",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:22:16.045Z"
+    },
+    {
+      "id": 4,
+      "descricao": "adicionar palavras na forca",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:22:29.409Z"
+    },
+    {
+      "id": 5,
+      "descricao": "adicionar animais no quiz de animais",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:22:42.569Z"
+    },
+    {
+      "id": 6,
+      "descricao": "adicionar mais comandos no rpg",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:23:01.787Z"
+    },
+    {
+      "id": 7,
+      "descricao": "adicionar mais comandos no menu 18",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:23:11.653Z"
+    },
+    {
+      "id": 8,
+      "descricao": "arrumar as plaq",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:23:20.629Z"
+    },
+    {
+      "id": 9,
+      "descricao": "arrumar as ias",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:23:44.154Z"
+    },
+    {
+      "id": 10,
+      "descricao": "organizar a Index por tópicos",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:24:11.788Z"
+    },
+    {
+      "id": 11,
+      "descricao": "organizar pastas do bot",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:24:20.059Z"
+    },
+    {
+      "id": 12,
+      "descricao": "atualizar mai no github",
+      "reporter": "Yuki 🌌",
+      "resolvido": false,
+      "dataReportado": "2025-01-28T09:24:37.030Z"
+    },
+    {
+      "id": 13,
+      "descricao": "arrumar sistema de aluguel",
+      "reporter": "Yuki 🌌",
+      "resolvido": false
+    },
+    {
+      "id": 14,
+      "descricao": "adicionar saldo",
+      "reporter": "Yuki 🌌",
+      "resolvido": true
+    },
+    {
+      "id": 15,
+      "descricao": "removersaldo",
+      "reporter": "Yuki 🌌",
+      "resolvido": true
+    },
+    {
+      "id": 16,
+      "descricao": "apis da bronxys",
+      "reporter": "Yuki 🌌",
+      "resolvido": false
+    },
+    {
+      "id": 17,
+      "descricao": "transferir",
+      "reporter": "Yuki 🌌",
+      "resolvido": false
+    },
+    {
+      "id": 18,
+      "descricao": "foto do ping",
+      "reporter": "Yuki 🌌",
+      "resolvido": false
+    }
+  ]
+}

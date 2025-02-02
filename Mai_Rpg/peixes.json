@@ -1,0 +1,50 @@
+{
+  "usuarios": {
+    "5511959391525@s.whatsapp.net": [],
+    "558191803830@s.whatsapp.net": [
+      {
+        "nome": "Tilápia",
+        "valor": 10,
+        "raridade": 0.5
+      },
+      {
+        "nome": "Dourado",
+        "valor": 50,
+        "raridade": 0.3
+      },
+      {
+        "nome": "Dourado",
+        "valor": 50,
+        "raridade": 0.3
+      }
+    ],
+    "554599030113@s.whatsapp.net": []
+  },
+  "tiposDePeixe": [
+    {
+      "nome": "Tilápia",
+      "valor": 10,
+      "raridade": 0.5
+    },
+    {
+      "nome": "Dourado",
+      "valor": 50,
+      "raridade": 0.3
+    },
+    {
+      "nome": "Tucunaré",
+      "valor": 100,
+      "raridade": 0.15
+    },
+    {
+      "nome": "Pirarucu",
+      "valor": 500,
+      "raridade": 0.04
+    },
+    {
+      "nome": "Lula Gigante",
+      "valor": 1000,
+      "raridade": 0.01
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "name": "🌟🎄 notícias brawl s7ars 🎄🌟 GRUPO OFC💯",
+    "groupId": "120363349040226478@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5511963900259@s.whatsapp.net",
+      "5515996737765@s.whatsapp.net",
+      "5579981320434@s.whatsapp.net",
+      "556492407432@s.whatsapp.net"
+    ],
+    "advertir": [
+      "5521996819442@s.whatsapp.net"
+    ],
+    "prefixos": [
+      "/",
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": true,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": true,
+      "palavras": [
+        "/menu+18",
+        "menu+18",
+        "cu",
+        "removeu voce"
+      ]
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Bem vindo ao grupo 🌟🎄 notícias brawl s7ars 🎄🌟 GRUPO OFC💯!!!!\nLeia a descrição ‼️",
+        "legendasaiu": "Vai com Dios 🙏🏻"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false,
+    "forca_inc": true
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "name": "💫✦☾հαԵ 🄶ᥱrᥲᥣ ✦💍",
+    "groupId": "120363320026488362@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "553598984146@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "/"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "eu sou gay",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": true,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [
+      {
+        "id": "5521970835485@s.whatsapp.net",
+        "msg": "indo falar com meus amiguinhos lindinhos, não vou voltar por agr.🎀"
+      }
+    ],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": true,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false,
+    "forca_inc": false
+  }
+]

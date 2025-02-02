@@ -1,0 +1,37 @@
+[
+  {
+    "plvr": "gato",
+    "tema": "animal",
+    "dica": "ele tem 4 patas, e o rugido dele começa com m 😉"
+  },
+  {
+    "plvr": "vidro",
+    "tema": "objetos",
+    "dica": "janelas"
+  },
+  {
+    "plvr": "mesa",
+    "tema": "moveis",
+    "dica": "comidas"
+  },
+  {
+    "plvr": "céu",
+    "tema": "geral",
+    "dica": "estrelas"
+  },
+  {
+    "plvr": "pássaro",
+    "tema": "animais",
+    "dica": "canta"
+  },
+  {
+    "plvr": "porco",
+    "tema": "animais",
+    "dica": "lama"
+  },
+  {
+    "plvr": "estelionato",
+    "tema": "crimes",
+    "dica": "dinheiro"
+  }
+]

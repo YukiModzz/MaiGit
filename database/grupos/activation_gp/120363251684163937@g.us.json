@@ -1,0 +1,112 @@
+[
+  {
+    "name": "彡✯ 🎄BRAWL STARS🎄 ✯彡",
+    "groupId": "120363251684163937@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": true,
+    "antilinkhard": false,
+    "antifake": true,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": true,
+    "listanegra": [
+      "5511968747586@s.whatsapp.net",
+      "11968736529@s.whatsapp.net",
+      "8596966547@s.whatsapp.net"
+    ],
+    "advertir": [
+      "559881711881@s.whatsapp.net",
+      "559295214031@s.whatsapp.net",
+      "559295214031@s.whatsapp.net",
+      "553799994982@s.whatsapp.net",
+      "553799994982@s.whatsapp.net",
+      "554899043391@s.whatsapp.net",
+      "5511968747586@s.whatsapp.net",
+      "5511968747586@s.whatsapp.net",
+      "351911838871@s.whatsapp.net",
+      "559381220148@s.whatsapp.net",
+      "5511920042889@s.whatsapp.net",
+      "5511920042889@s.whatsapp.net",
+      "5511948067098@s.whatsapp.net",
+      "557591304782@s.whatsapp.net",
+      "556781185267@s.whatsapp.net",
+      "558294343534@s.whatsapp.net",
+      "5511917722419@s.whatsapp.net",
+      "5511963900259@s.whatsapp.net",
+      "558294343534@s.whatsapp.net",
+      "5519982916273@s.whatsapp.net",
+      "555492466396@s.whatsapp.net",
+      "554699805385@s.whatsapp.net",
+      "555492466396@s.whatsapp.net"
+    ],
+    "prefixos": [
+      "/",
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": true,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "olá 👋 _*#numerodele#,* seja bem vindo ao grupo #nomedogp#_\n\n*Leia as regras ❗*\n\n> Canal do Alves Oficial⤵️\nhttps://youtube.com/@vtralvesadm?si=NMapNOFT0ypNsLpz\n\n> Discord 😎👇\nhttps://discord.com/invite/Af358GZ6pG\n\n> link do grupo 🇧🇷⤵️\nhttps://chat.whatsapp.com/G3O5qgx9O9ICPXdpNSL1ns",
+        "legendasaiu": "É.... Foi bom o tempo em que esteve aqui, espero que encontre outras aventuras por ai, Força soldado!!!\n1 Membro saiu"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "isAutodown": false,
+    "forca_inc": false
+  }
+]

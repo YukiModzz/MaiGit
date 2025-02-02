@@ -1,0 +1,38 @@
+{
+  "empresas": [
+    {
+      "dono": "555194709091@s.whatsapp.net",
+      "nome": "teste",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [],
+      "lucro": 440
+    },
+    {
+      "dono": "5521987919007@s.whatsapp.net",
+      "nome": "Liz",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [
+        {
+          "nome": "vinho",
+          "valor": 300
+        }
+      ],
+      "lucro": 0
+    },
+    {
+      "dono": "5514991853342@s.whatsapp.net",
+      "nome": "cu",
+      "tipo": "basica",
+      "valor": 30000,
+      "produtos": [
+        {
+          "nome": "celular",
+          "valor": 300
+        }
+      ],
+      "lucro": 0
+    }
+  ]
+}
