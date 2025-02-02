@@ -4,6 +4,7 @@
   "description": "Mai System Bot",
   "main": "connect.js",
   "dependencies": {
+    "@im-dims/baileys-md": "6.8.3",
     "abab": "^2.0.6",
     "abort-controller": "^3.0.0",
     "acorn": "^8.12.1",
